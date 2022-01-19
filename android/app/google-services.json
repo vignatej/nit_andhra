@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045199770858",
+    "project_id": "nit-ap-epics",
+    "storage_bucket": "nit-ap-epics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045199770858:android:86c5d16121f4bb76ac7393",
+        "android_client_info": {
+          "package_name": "com.vigna.nit_andhra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045199770858-pc0gv6c5ppue589gk67a036udedluh4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6xOqOb90KkbRyaZ4zKDTi-QwGC75lOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045199770858-pc0gv6c5ppue589gk67a036udedluh4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
